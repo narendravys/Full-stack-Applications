@@ -19,6 +19,6 @@ Things you may want to cover:
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+* Deployment instructions : this project contains both front and backend to run both server in your CLI run heroku local -f Procfile.windows
 
 * ...
