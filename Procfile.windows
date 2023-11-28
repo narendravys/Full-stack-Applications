@@ -1,0 +1,2 @@
+api: rails s
+web: yarn --cwd tdlist-client start
